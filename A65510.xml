@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy on the death of that painful minister of the Gospel Mr. James Fitton who fell asleep in the Lord, the 12th of this instant June, 1677 / by W.W.</title>
+            <author>W. W., 17th century.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65510</idno>
+            <idno type="STC">Wing W144A</idno>
+            <idno type="STC">ESTC R26301</idno>
+            <idno type="EEBO-CITATION">09418380</idno>
+            <idno type="OCLC">ocm 09418380</idno>
+            <idno type="VID">43036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1319:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy on the death of that painful minister of the Gospel Mr. James Fitton who fell asleep in the Lord, the 12th of this instant June, 1677 / by W.W.</title>
+                  <author>W. W., 17th century.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitton, James --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb n="102" facs="tcp:43036:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>AN ELEGY ON THE Death of that painful Miniſter of the Goſpel, Mr. JAMES FITTON; Who fell aſleep in the Lord, the 12th. of this inſtant <hi>June,</hi> 1677.</head>
+            <lg>
+               <l>DEath! Ah cruel Death; what damage haſt thou done?</l>
+               <l>Thus to bereave us (now agen) of one</l>
+               <l>More of the ſuffering Servants of our Lord,</l>
+               <l>Whoſe tender hearts forbids them to ac<g ref="char:EOLhyphen"/>cord</l>
+               <l>With Romiſh Superſtitions, which they hate;</l>
+               <l>Alas, for us to mourn, 'tis now too late:</l>
+               <l>For Reverend <hi>Fitton,</hi> Learned, Pious, Bold;</l>
+               <l>Humble, Painful Preacher it can't be told,</l>
+               <l>How beautiful and glorious within,</l>
+               <l>He was much like the Daughter of the King</l>
+               <l>Of Saints, his ſpotleſs life in view of all can tell,</l>
+               <l>And Conſciences awaken'd many, can yet well</l>
+               <l>Bear Witneſs to the keenneſs of that edged Sword,</l>
+               <l>Brandiſht by him the heart all-ſearching word.</l>
+               <l>His Lords-days Morning Lecture, did declare,</l>
+               <l>What heart-affections to young ſouls he bear</l>
+               <l>Thoſe that did early to the Vineyard come,</l>
+               <l>This Vineyard-keeper ſent them laden home.</l>
+               <l>Thoſe that in youth did cleave unto the Lord,</l>
+               <l>With great complacency he would afford</l>
+               <l>Help (by his Counſel) to proceed i'th'race</l>
+               <l>They'd undertaken, with a ſwift, ſure pace;</l>
+               <l>A Univerſal Love to Saints, as Saints, he bore:</l>
+               <l>Woe and alas, we ſhan't enjoy him more.</l>
+               <l>Mourn you his Hearers all, and wait, and Pray</l>
+               <l>For Preſervation in this evil day,</l>
+               <l>Now we have had ſuch numbers ta'ne away,</l>
+               <l>Of thoſe who lab'rers in Chriſt's Vineyard were;</l>
+               <l>Oh Lord, let new ones in their ſtead appear,</l>
+               <l>Full fraught and loaded with a double meaſure</l>
+               <l>Of gifts and grace: Oh that mod Heavenly Treaſure!</l>
+               <l>Well Chriſtians, know that though we have this loſs,</l>
+               <l>And it adds weight, and magnifies our croſs;</l>
+               <l>He has loſt nothing, but is gone to ſee</l>
+               <l>His dear Lord Jeſus, who hath made him free,</l>
+               <l>From what we yet endure, the Devils rage,</l>
+               <l>With Curs'd prophaneneſs of this monſtrous Age;</l>
+               <l>With many more of the like nature, that</l>
+               <l>Do cauſe us oft to mourn; ſometimes debate</l>
+               <l>The Faithfulneſs of God: This World's a Thief;</l>
+               <l>Stealing our hearts, but he has ſound relief.</l>
+               <l>Me-thinks I hear him ſay, Daughters, don't weep</l>
+               <l>For me, but for your ſelves: I Sleep,</l>
+               <l>And Reſt from all my Labours, in the Lord,</l>
+               <l>Whom I do find in all things worth His Word.</l>
+               <l>Oh Lord, free thine from ſuch great Judgments ſad,</l>
+               <l>That make the Righteous grieve; the Wicked glad.</l>
+               <l>Theſe Tears we boldly ſprinkle on his Hearſe,</l>
+               <l>From mournful hearts, unfit to make a Verſe.</l>
+            </lg>
+         </div>
+         <div type="acrostic">
+            <head>An Acroſtick.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <hi>J</hi>ames,</hi> art thou gone? And (behind) left us here:</l>
+               <l>
+                  <hi>A</hi>las! Yet we'l rejoyce, thou doſt appear,</l>
+               <l>
+                  <hi>M</hi>ajeſty to ſee, which on Earth thou did'ſt blazen,</l>
+               <l>
+                  <hi>E</hi>'ne when the times were Evil (a dang'rous ſeaſon).</l>
+               <l>
+                  <hi>S</hi>ure thou by Faith did'ſt live, and not by reaſon:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>F</hi>arewell, we need not bid thee now; thou art treated</l>
+               <l>
+                  <hi>I</hi>n, or with pleaſures, by him that defeated</l>
+               <l>
+                  <hi>T</hi>hat ſubtle Enemy (by his deareſt blood)</l>
+               <l>
+                  <hi>T</hi>hat would have kept us from being ever good:</l>
+               <l>
+                  <hi>O</hi>r happy there, where thou art gone t'enjoy</l>
+               <l>
+                  <hi>N</hi>o filthy pleaſures, that our ſouls annoy.</l>
+            </lg>
+         </div>
+         <div type="anagram">
+            <head>
+               <hi>James Fitton.</hi> Anagram.</head>
+            <p>
+               <hi>See, I am not, fit.</hi>
+            </p>
+            <p>
+               <hi>Note, Sift, I am.</hi>
+            </p>
+            <l>Bleſt <hi>James,</hi> thou art not fit, (as here thou wert)</l>
+            <l>But now, we Note, and Sift; yea, hope thou art.</l>
+         </div>
+         <div type="epitaph">
+            <head>Epitaph.</head>
+            <lg>
+               <l>HEre lyes he that Conquer'd Death,</l>
+               <l>And Tryumph'd o're it while h'had breath;</l>
+               <l>And now he's gone Heaven to ſhew,</l>
+               <l>What Victories he got below.</l>
+            </lg>
+         </div>
+         <closer>
+            <signed>By <hi>W. W.</hi>
+            </signed>
+         </closer>
+      </body>
+   </text>
+</TEI>
